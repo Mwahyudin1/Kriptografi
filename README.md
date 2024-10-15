@@ -97,4 +97,4 @@ print(f"Teks Enkripsi 3: {ciphertext3}")
 print(f"Teks Dekripsi 3: {decrypted_text3}")
 ```
 - Hasil Output
-
+![Untitled](https://github.com/user-attachments/assets/c9717176-5e16-4244-b33b-1304f433b46b)
