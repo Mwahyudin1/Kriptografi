@@ -4,7 +4,7 @@
 # Kelas: TI.22.A1
 
 - Script
-''
+```
 def generate_matrix(kunci):
     kunci = ''.join(sorted(set(kunci), key=lambda k: kunci.index(k)))
     alfabet = "ABCDEFGHIKLMNOPQRSTUVWXYZ"
@@ -95,4 +95,6 @@ print(f"Teks Dekripsi 2: {decrypted_text2}")
 print(f"\nPlaintext 3: {plaintext3}")
 print(f"Teks Enkripsi 3: {ciphertext3}")
 print(f"Teks Dekripsi 3: {decrypted_text3}")
-''
+```
+- Hasil Output
+
